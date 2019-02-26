@@ -1,0 +1,24 @@
+{
+  "name": "airyengine",
+  "version": "1.0.0",
+  "description": "Light & speed game engine",
+  "main": "dist/AiryEngine.min.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "gameEngine"
+  ],
+  "author": "Oskar Habraszewski",
+  "license": "ISC"
+}
